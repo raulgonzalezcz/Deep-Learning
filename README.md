@@ -8,6 +8,10 @@ I watch videos and search projects in which it is applied deep learning. In this
 This material was provided by:
 	* FlappyBird: https://github.com/yenchenlin/DeepLearningFlappyBird
 
+## Programming language
+```[python2]
+# Python 2
+```
 
 ## Author
 **Raúl González Cruz**
